@@ -1,4 +1,6 @@
-package br.com.dio.desafio.dominio;
+package br.com.dio.desafio.dominio.escola;
+
+import br.com.dio.desafio.dominio.pessoas.Dev;
 
 import java.time.LocalDate;
 import java.util.HashSet;

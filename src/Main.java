@@ -1,7 +1,7 @@
-import br.com.dio.desafio.dominio.Bootcamp;
-import br.com.dio.desafio.dominio.Curso;
-import br.com.dio.desafio.dominio.Dev;
-import br.com.dio.desafio.dominio.Mentoria;
+import br.com.dio.desafio.dominio.escola.Bootcamp;
+import br.com.dio.desafio.dominio.escola.Curso;
+import br.com.dio.desafio.dominio.pessoas.Dev;
+import br.com.dio.desafio.dominio.escola.Mentoria;
 
 import java.time.LocalDate;
 

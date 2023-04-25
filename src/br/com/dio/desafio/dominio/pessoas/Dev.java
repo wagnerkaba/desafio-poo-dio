@@ -7,6 +7,9 @@ import java.util.*;
 
 public class Dev extends Pessoa {
 
+    public Dev(String nome){
+        super(nome);
+    }
     private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();
     private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>();
 

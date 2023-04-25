@@ -1,8 +1,12 @@
 package br.com.dio.desafio.dominio.pessoas;
 
-abstract class Pessoa {
+public abstract class Pessoa {
 
     private String nome;
+
+    public Pessoa(String nome){
+        this.nome = nome;
+    }
 
     public void apresentarPessoa() {
         System.out.println("Olá, meu nome é " + nome);
